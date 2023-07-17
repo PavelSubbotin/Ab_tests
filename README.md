@@ -12,7 +12,7 @@
 1) [Тест Стьюдента](https://github.com/PavelSubbotin/Ab_tests/blob/main/notebooks/T_test.ipynb) - реализация T-теста, проверка его корректности, исследование работы теста в различных условиях.
 2) [Bootstrap 1-я часть](https://github.com/PavelSubbotin/Ab_tests/blob/main/notebooks/bootstrap_1.ipynb) - реализация бутстрепа, реализация пуассоновского бутстрепа и сравнение его работы с обычным, сравнение различных бутстрепных доверительных интервалов.
 3) [U-test добро или зло](https://github.com/PavelSubbotin/Ab_tests/blob/main/notebooks/mann_whitney.ipynb) - поиск случаев, когда тест Манна-Уитни работает лучше, чем T-тест, пример, когда U-test некорректен.
-4) [Стратификация](https://github.com/PavelSubbotin/Ab_tests/blob/main/notebooks/mann_whitney.ipynb) - реализация стратификации, исследование эффекта от стратификации на различных данных.
+4) [Стратификация](https://github.com/PavelSubbotin/Ab_tests/blob/main/notebooks/stratification.ipynb) - реализация стратификации, исследование эффекта от стратификации на различных данных.
 #### Ноутбуки в работе
 1) Bootstrap 2-я часть - продолжение сравнения эффективности использования различных доверительных интервалов, применение формулы MDE для бутстрепа.
 2) CUPED - реализация CUPED, исследование эффективности при использовании различных ковариат.
